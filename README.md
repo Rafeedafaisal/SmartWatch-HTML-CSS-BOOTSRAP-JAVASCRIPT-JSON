@@ -10,4 +10,4 @@ Contains :
 2:message page(just a demo page)
 3:stopwatch page
 4:music page
-(Made as an assignment for internship programme in MERN Stack development.)
+(Made as an assignment that is part of the internship programme in MERN stack Development.)
