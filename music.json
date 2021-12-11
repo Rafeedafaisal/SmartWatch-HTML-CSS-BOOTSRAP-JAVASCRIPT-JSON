@@ -1,0 +1,22 @@
+{
+"songs": [{
+        "song":"tamil",
+        "file":"mashuptamil.mp3"
+    } ,
+    {
+        "song":"hindi",
+        "file":"hindi.mp3"
+    } ,
+    {
+        "song":"malayalam",
+        "file":"malayalam.mp3"
+    },
+    {
+        "song":"arabic",
+        "file":"arabic.mp3"
+    },{
+        "song":"tamil",
+        "file":"uyire.mp3"
+    }
+]
+}
